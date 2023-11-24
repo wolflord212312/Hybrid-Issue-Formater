@@ -1,0 +1,3 @@
+name: Issue Formater
+version: '${version}'
+main: org.foxycraft.issueformater.IssueFormater
